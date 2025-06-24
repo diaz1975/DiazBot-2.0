@@ -13,23 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5214774444444", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["573019448245"],
-["5257627213899"],
-["149749000843505"],
-["5492266613038"], 
-["5573031859"],
-["5492916450307"],
-["593968585383"],
-["595976126756"],
-["584125778026"],
-["593968263524"],
-["5215539356057"],
-["573012482597"],
-["5219999699999"],
-['5216646666666'],
-['5214531287294'],
-["51968374620"]]
+["573234231940", 'Diaz', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
+["573234231940"]]
 
 global.mods = []
 global.prems = []
@@ -108,9 +93,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593968263524", 'Gata Dios 💻', 1], 
-["573147616444", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
+["573234231940", 'Diaz', 1], 
+["573234231940", 'Diaz', 1],  
+["573234231940", 'Diaz', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -118,8 +103,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 🐈\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @globalgb\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @gatadios\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @gata_dios\n╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ GataNina-Li\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @OficialGD\n ╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `Diaz Bot`
+global.author = ` Diaz`
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -127,7 +112,7 @@ global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "5.0 (Beta)"
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "DiazBot"
 global.imagen = fs.readFileSync('./Menu2.jpg')
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -154,9 +139,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-global.nomorown = "593993684821"
+global.wm = "DiazBot : Diaz"
+global.igfg = "DiazBot"
+global.nomorown = "573234231940"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -444,24 +429,24 @@ console.log(chalk.redBright("Update 'config.js'"));
 import(`${file}?update=${Date.now()}`);
 })
 
-global.yt = 'https://youtube.com/@gatadios'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789'
-global.tk = 'https://www.tiktok.com/@gata_dios'
-global.ths = 'https://www.threads.net/@gata_dios'
+global.yt = 'https://www.instagram.com/best.diazzz'
+global.ig = 'https://www.instagram.com/best.diazzz'
+global.md = 'https://www.instagram.com/best.diazzz'
+global.fb = 'https://www.instagram.com/best.diazzz'
+global.tk = 'https://www.tiktok.com/@best.diazzz'
+global.ths = 'https://www.instagram.com/best.diazzz'
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'https://wa.me/message/MEKOUFBEOG5ED1'
-global.all = 'https://www.atom.bio/GataBot'
-global.canal1 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.canal2 = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g'
-global.canal3 = 'https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15'
-global.canal4 = 'https://t.me/globalgb'
+global.asistencia = 'https://www.instagram.com/best.diazzz'
+global.all = 'https://www.instagram.com/best.diazzz'
+global.canal1 = 'https://whatsapp.com/channel/0029Vaj5Xwx6rsQryvEUhv15'
+global.canal2 = 'https://whatsapp.com/channel/0029Vaj5Xwx6rsQryvEUhv15'
+global.canal3 = 'https://whatsapp.com/channel/0029Vaj5Xwx6rsQryvEUhv15'
+global.canal4 = 'https://whatsapp.com/channel/0029Vaj5Xwx6rsQryvEUhv15'
 
-global.soporteGB = "https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV"
-global.grupo1 = "https://chat.whatsapp.com/JRG6rVJJV40IxlI1wjQ0E9"
-global.grupo2 = "https://chat.whatsapp.com/B5s3ohjEGofH5YDD05jAV5"
-global.grupo_collab1 = "https://chat.whatsapp.com/IO5k0UOF7hOJHE1eH3Fcxh"
-global.grupo_collab2 = "https://chat.whatsapp.com/GFsgXW2VD4I4FEOSlEg9wp"
-global.grupo_collab3 = "https://chat.whatsapp.com/H1TEBeMtFVv3RcayD1WfGU"
-global.grupo_collab4 = "https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6"
+global.soporteGB = "https://chat.whatsapp.com/LdApybsM5b8DOZUfOegPXW"
+global.grupo1 = "https://chat.whatsapp.com/LdApybsM5b8DOZUfOegPXW"
+global.grupo2 = "https://chat.whatsapp.com/LdApybsM5b8DOZUfOegPXW"
+global.grupo_collab1 = "https://chat.whatsapp.com/LdApybsM5b8DOZUfOegPXW"
+global.grupo_collab2 = "https://chat.whatsapp.com/LdApybsM5b8DOZUfOegPXW"
+global.grupo_collab3 = "https://chat.whatsapp.com/LdApybsM5b8DOZUfOegPXW"
+global.grupo_collab4 = "https://chat.whatsapp.com/LdApybsM5b8DOZUfOegPXW"
